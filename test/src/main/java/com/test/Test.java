@@ -3,7 +3,7 @@ public class Test {
 
 	Test(){
 		
-		System.out.println("cheking cross branch commit");
+		System.out.println("cheking cross branch commit 2");
 		
 	}
 }
